@@ -1,0 +1,6 @@
+.env
+dados/api_metereologica.py
+.env'ndados/api_sptrans.py
+env'ndados/dataset_onibus_sp.csv
+env'ndados/previsao_tempo.json
+env'ndados/rotas_usuario.py
